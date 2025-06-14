@@ -1,6 +1,6 @@
   
 # 🌐 OIBSIP Web Development Tasks  
-**By Shekhar Degala**
+**By shanmukha priya**
 
 This repository contains completed web development tasks as part of the **Oasis Infobyte Internship Program**. Each task is developed using **HTML**, **CSS**, and **JavaScript**, with a focus on clean UI, interactivity, and responsive design.
 
@@ -57,8 +57,8 @@ A simple front-end login system with:
 
 ## 🧑‍💻 Author
 
-**Shekhar Degala**  
-[GitHub Profile](https://github.com/ShekharDegala)
+**Shanmukha priya**  
+[GitHub Profile](https://github.com/Shanmukhapriya2233)
 
 ---
 
